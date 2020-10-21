@@ -1,0 +1,23 @@
+{
+  "name": "learning-git-IGEN330-musicteam",
+  "version": "1.0.0",
+  "description": "learning-git-IGEN330-musicteam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinetPeng/learning-git-IGEN330-musicteam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinetPeng/learning-git-IGEN330-musicteam/issues"
+  },
+  "homepage": "https://github.com/KevinetPeng/learning-git-IGEN330-musicteam#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
