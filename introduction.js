@@ -3,7 +3,7 @@ person = {
     age: 69,
 };
 
-person.name = Danica
+person.name = Danica is cool
 person.age = 20
 
 function populateHTML() {
