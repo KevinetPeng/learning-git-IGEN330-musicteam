@@ -3,8 +3,8 @@ person = {
     age: 69,
 };
 
-person.name = Danica is cool
-person.age = 20
+person.name = "Danica Smells"
+person.age = "20"
 
 function populateHTML() {
     document.getElementById("heading1").innerHTML = `Hi! my name is ${person.name}.`;
