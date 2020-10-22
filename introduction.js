@@ -3,7 +3,7 @@ person = {
     age: 69,
 };
 
-person.name = "josie";
+person.name = "Josie";
 person.age="21";
 
 function populateHTML() {
