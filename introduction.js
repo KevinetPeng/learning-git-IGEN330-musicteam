@@ -2,7 +2,7 @@ person = {
     name: "__",
     age: 69,
 };
-person.name("brendan");
+person.name("brendan is smelly");
 person.age("20");
 
 function populateHTML() {
